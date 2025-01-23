@@ -1,0 +1,12 @@
+{
+    "name": "Make panama canal American again",
+    "symbol": "mpcaa",
+    "description": "Lets make panama canal American again",
+    "image": "https://raw.githubusercontent.com/jolygit/solana/main/panamaCanalImage.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
